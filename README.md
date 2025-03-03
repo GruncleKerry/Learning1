@@ -1,8 +1,12 @@
 # Learning1
 My first study repository
+restore
+this
+text
+.
 
-Line 3
+Ha
 
-Line 5
+Ha
 
-Line4
+Ha
